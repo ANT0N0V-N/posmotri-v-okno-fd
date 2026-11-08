@@ -16,6 +16,10 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1,
@@ -51,12 +55,6 @@ ol {
 }
 
 /* Проектная работа «Посмотри в окно» */
-
-.page {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
 
 /* Content */
 
