@@ -1,1 +1,1 @@
-https://github.com/ANT0N0V-N/posmotri-v-okno-fd
+https://github.com/ANT0N0V-N/posmotri-v-okno-fd.git
